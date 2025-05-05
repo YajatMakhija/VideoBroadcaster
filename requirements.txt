@@ -1,0 +1,5 @@
+uvicorn #for api layer
+fastapi # for api layer
+pyvirtualcam #for virtual cam
+opencv-python # interact with cam
+ultralytics 
