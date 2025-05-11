@@ -29,5 +29,5 @@ VideoBroadcaster is a Python-based application that allows you to stream your we
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/videobroadcaster.git
+git clone https://github.com/YajatMakhija/videobroadcaster
 cd videobroadcaster
